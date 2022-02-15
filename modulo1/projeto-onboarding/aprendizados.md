@@ -1,0 +1,2 @@
+# Aprendizados da semana
+Nesta semana aprendi sobre os **comandos** que usamos no **terminal** e testei o que entendi fazendo um exercício muito bacana. Ele me ajudou bastante a memorizar e entender a lógica das funções dos comandos. A próxima aula foi sobre **Git e GitHub**. Uma plataforma onde vamos compilando nossos projetos e no final, será nossa janela para que outros profissionais conheçam nosso trabalho.   
