@@ -124,8 +124,18 @@ console.log(valorXic,"xic equivalem a",conversaoXicparaL,"l")
 
 
 
+function minhaFuncao(variavel) {return variavel * 5}
+
+console.log(minhaFuncao(2))
+console.log(minhaFuncao(10))
 
 
+let nome = prompt("Qual o seu nome?")
+let nomeNamorade = prompt("Qual o nome do seu respective?")
+let sentimento = prompt("O que você sente por elx?")
+let intensidadeSentimento = prompt("O quanto você senti isto por elx?")
+
+console.log("Ei", nomeNamorade, "eu tenho",intensidadeSentimento,sentimento,"por ti,ó <3 - ",nome)
 
 
 
