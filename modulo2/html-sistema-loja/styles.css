@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    background-color: darkorchid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header {
+    background-color: white;
+}
+
+#footer {
+    background-color: white;
+}
+
+a:link {
+    text-decoration: none;
+    }
+
+a:hover {
+    text-decoration: underline;
+}
+
+#title {
+    color: coral;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
