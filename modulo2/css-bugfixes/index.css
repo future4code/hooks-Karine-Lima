@@ -61,7 +61,11 @@ div img {
 
 .icone {
     width: 15px ;
-}
+    }
+
+.icone:hover {
+    opacity: 50%;
+    }    
 
 /** 
   *
